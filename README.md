@@ -27,6 +27,7 @@
   Email: developer.dipankar@gmail.com, <br />
   Linkedin: https://www.linkedin.com/in/dipankar-naskar/ <br />
   Facebook: https://www.facebook.com/deep.dashng <br />
+  GitHub: https://github.com/dipankar-npowered / https://github.com/developer-dipankar
 
 <!---
 dipankar-npowered/dipankar-npowered is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
