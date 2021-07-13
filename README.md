@@ -14,7 +14,7 @@
   ✔	Optimized SEO to make the marketing pages come under top ranked websites by searching keywords<br />
   ✔	Achieved employee of the month & quarter<br />
   
-- Certifications:
+- Certifications: <br />
   ◆	Certified in AWS Certified Developer - Associate 2020 from Udemy.<br />
   ◆	Certified in GraphQL Bootcamp with NodeJS & Apollo from Udemy.<br />
   ◆	Post Graduate Program in Applied Finance & Accountants from NIIT<br />
